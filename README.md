@@ -1,1 +1,2 @@
 Proyecto React desarrollado para el Hito 7 de Desafío Latam, donde se implementaron rutas dinámicas y protegidas usando React Router y Context API. Incluye un sistema de autenticación simulado con UserContext (login/logout), manejo de carrito mediante CartContext, y navegación dinámica con useParams para mostrar detalles de pizzas. El Navbar y las rutas se adaptan según el estado del usuario, deshabilitando acciones como “Pagar” cuando no hay sesión activa.
+Link directo : https://chimerical-rabanadas-f165de.netlify.app/
